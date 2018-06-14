@@ -1,0 +1,27 @@
+{
+    "name": "AlanMosko/PhotonImageCdn",
+    "description": "CDN from Photon (Automattic) to Laravel",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "illuminate/support": "5.*"
+    },
+    "author": {
+        "name": "Alan Mosko ",
+        "email": "suporte@alanmosko.com.br"
+    },
+    "autoload": {
+        "psr-4": {
+            "AlanMosko\\PhotonImageCdn\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AlanMosko\\PhotonImageCdn\\PhotonImageCdnServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
