@@ -3,6 +3,7 @@
     "description": "CDN from Photon (Automattic) to Laravel",
     "license": "MIT",
     "type": "library",
+    "version": "1.0",
     "require": {
         "php": ">=7.0",
         "illuminate/support": "5.*"
