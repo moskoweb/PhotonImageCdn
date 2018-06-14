@@ -8,6 +8,10 @@ With Photon's CDN, you have a web-optimized image, removing all unnecessary info
 
 ## Install
 
+```
+composer require alan-mosko/photon-image-cdn
+```
+
 Add the service provider to the providers array and alias to the aliases array in config/app.php.
 
 ```
