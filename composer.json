@@ -1,5 +1,5 @@
 {
-    "name": "AlanMosko/PhotonImageCdn",
+    "name": "alan-mosko/photon-image-cdn",
     "description": "CDN from Photon (Automattic) to Laravel",
     "license": "MIT",
     "type": "library",
